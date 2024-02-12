@@ -2,7 +2,7 @@
 /**
  * This class defines how power pills behave in
  * a game.  The purpose of a power pill is to simply
- * provide a character with power.
+ * provide a character with power..
  *
  * @author (Deyvon)
  * @version (0.1)
